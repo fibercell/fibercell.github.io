@@ -1275,7 +1275,7 @@ contact
 
 @media (max-width: 765px) {
   .contact-form {
-    padding: 60px;
+    padding: 40px 20px;
     margin-top: -7px;
   }
 }
