@@ -730,9 +730,7 @@ welcome
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(../../fibercell/landing.jpg);
-  background-repeat: no-repeat;
-  background-position: top right;
+  background: url(../../fibercell/landing.jpg) no-repeat top center;
 /*
 TRY IT ... with or without CENTER CENTER
   background-position: center center; 
