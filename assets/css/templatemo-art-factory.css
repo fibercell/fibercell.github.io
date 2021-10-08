@@ -293,10 +293,10 @@ header
 --------------------------------------------- 
 */
 
-header {
+/* header {
   background-color: rgba(0, 0, 0, 0.4);
   height: 80px !important;
-}
+} */
 
 header a {
   color: #fff !important;
@@ -732,6 +732,7 @@ welcome
   justify-content: center;
   background-image: url(../../fibercell/landing.jpg);
   background-repeat: no-repeat;
+  background-position: top right;
 /*
 TRY IT ... with or without CENTER CENTER
   background-position: center center; 
@@ -902,8 +903,8 @@ about
 #about p,
 #about2 p {
   margin-bottom: 30px;
-  font-size: 16px;
-  line-height: 30px;
+  font-size: 14px;
+  line-height: 26px;
   letter-spacing: 0.5px;
 }
 
