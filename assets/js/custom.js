@@ -113,6 +113,16 @@
       $(this).hide();
       $('#challenge-more').show();
     });
+
+    $('#ecopads-more').hide();
+
+    $('#discover-ecopads').on('click', function(e) {
+      e.preventDefault();
+      $(this).hide();
+      $('#ecopads-more').show();
+    });
+    $('#ecopads-more').hide();
+
   });
 
   function onScroll(event) {
