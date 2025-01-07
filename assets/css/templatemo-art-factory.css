@@ -730,7 +730,7 @@ welcome
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(../../pinawaste/landing-bio.png) no-repeat top center;
+  background: url(../../pinawaste/landing-bio.webp) no-repeat top center;
 /*
 TRY IT ... with or without CENTER CENTER
   background-position: center center; 
@@ -747,7 +747,7 @@ TRY IT ... with or without CENTER CENTER
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(../../pinawaste/landing-comuniti.png) no-repeat top center;
+  background: url(../../pinawaste/landing-comuniti.webp) no-repeat top center;
 /*
 TRY IT ... with or without CENTER CENTER
   background-position: center center; 
@@ -1480,4 +1480,7 @@ preloader
   100% {
     opacity: 0;
   }
+}
+.vegan-description{
+  text-align: justify;
 }
